@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Boki23m/Burger.git"
+    "url": "git+https://github.com/tearshred/Burger.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Boki23m/Burger/issues"
+    "url": "https://github.com/tearshred/Burger/issues"
   },
-  "homepage": "https://github.com/Boki23m/Burger#readme",
+  "homepage": "https://github.com/tearshred/Burger#readme",
   "dependencies": {
     "express": "^4.16.4",
     "express-handlebars": "^3.0.2",
