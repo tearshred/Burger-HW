@@ -1,0 +1,25 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "Burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boki23m/Burger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Boki23m/Burger/issues"
+  },
+  "homepage": "https://github.com/Boki23m/Burger#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "method-override": "^3.0.0",
+    "mysql": "^2.16.0"
+  }
+}
